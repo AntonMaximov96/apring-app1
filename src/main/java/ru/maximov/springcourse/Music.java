@@ -1,4 +1,4 @@
-package ru.maximov.springcourse.music_1;
+package ru.maximov.springcourse;
 
 public interface Music {
     String getSong ();

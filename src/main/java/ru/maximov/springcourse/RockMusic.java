@@ -1,5 +1,8 @@
-package ru.maximov.springcourse.music_1;
+package ru.maximov.springcourse;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class RockMusic implements Music{
     @Override
     public String getSong() {
